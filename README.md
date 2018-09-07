@@ -10,15 +10,19 @@ This...
     folder/
      ⌞ file1.txt
      ⌞ file2.txt
+     
     anotherFolder/
      ⌞ file3.wav
      ⌞ file4.mp4
 
-...will become this (no quotes, of course)
+...will become this
 
     '      '/
      ⌞ '     '.'   '
      ⌞ '     '.'   '
+     
     '             '/
      ⌞ '     '.'   '
      ⌞ '     '.'   '
+
+(No quotes, of course!)
